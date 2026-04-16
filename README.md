@@ -1,4 +1,4 @@
-Jitter-based Random Number Generator
+Jitter-based Random Number Generator 
 ============================================
 Donanım bağımsız, seed'siz, tekrarlanamaz rastgele sayı üretici.
 Kaynak: CPU nanosaniye sayacının stride örneklemesi (t mod 1000).
